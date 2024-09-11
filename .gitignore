@@ -1,0 +1,4 @@
+git init
+git add your_notebook.ipynb
+git commit -m "Add notebook"
+git remote add origin
